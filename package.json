@@ -7,12 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev:server": "nodemon server.js",
     "json:server": "json-server --watch data.json",
-    "start": "node server.js"
+    "prod:server": "node server.js",
+    "start": "concurrently \" npm run prod:server \" \" npm run json:server \""
   },
   "author": "Jonas",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
+    "concurrently": "^4.1.0",
     "express": "^4.16.4",
     "express-graphql": "^0.7.1",
     "graphql": "^14.0.2",
