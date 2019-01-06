@@ -1,0 +1,70 @@
+{
+  "customers": [
+    {
+      "id": "3",
+      "name": "Tom Jones",
+      "email": "tom@gmail.com",
+      "age": 59
+    },
+    {
+      "id": "5",
+      "name": "Jen Thompson",
+      "email": "jen@gmail.com",
+      "age": 22
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "age": 34,
+      "id": "4"
+    },
+    {
+      "name": "Harry Potter",
+      "email": "hp@gmail.com",
+      "age": 34,
+      "id": "qSXAcGI"
+    },
+    {
+      "name": "Harry Potter",
+      "email": "hp@gmail.com",
+      "age": 34,
+      "id": "X81SJtU"
+    },
+    {
+      "name": "Harry Potter",
+      "email": "hp@gmail.com",
+      "age": 34,
+      "id": "wuLXyeM"
+    },
+    {
+      "name": "Harry Potter",
+      "email": "hp@gmail.com",
+      "age": 34,
+      "id": "OGkxEtz"
+    },
+    {
+      "name": "Harry Potter",
+      "email": "hp@gmail.com",
+      "age": 34,
+      "id": "QXCCmOY"
+    },
+    {
+      "name": "Harry Potter",
+      "email": "hp@gmail.com",
+      "age": 34,
+      "id": "dmJQHLD"
+    },
+    {
+      "name": "Harry Potter",
+      "email": "hp@gmail.com",
+      "age": 34,
+      "id": "wYi0kIL"
+    },
+    {
+      "name": "Harry Potter",
+      "email": "hp@gmail.com",
+      "age": 34,
+      "id": "SgJ5ItI"
+    }
+  ]
+}
